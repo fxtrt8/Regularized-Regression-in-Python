@@ -1,4 +1,4 @@
-# Regularized-Regression-in-Python
+# Multicollinearity and regularized regression on house price
 
 In this repo, we made a regularized regression model that aimed to know further about our model is good or not good 
 
